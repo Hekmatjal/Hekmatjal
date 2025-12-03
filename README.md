@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Hekmatullah Jalili</h1>
-<h1 align="center">Freelance Developer</h1>
+
+<h1 align="center">Full Stack Developer</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hekmatjalili&label=Profile%20views&color=0e75b6&style=flat" alt="hekmatjalili" /> </p>
