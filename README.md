@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Full Stack Web Developer | ASP.NET Core | Flutter | React | SQL Server
+Full Stack Web Developer|Laravel | ASP.NET Core | Flutter | React | SQL Server
 </h3>
 
 <p align="center">
