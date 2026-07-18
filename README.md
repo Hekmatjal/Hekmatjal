@@ -1,42 +1,204 @@
- <h1>  Hi there 👋 I'm Hekmatullah Jalili Welcome to my Github Profile</h1>
+<h1 align="center">
+  Hi 👋, I'm Hekmatullah Jalili
+</h1>
 
-<!--
-**Hekmatjal/Hekmatjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Web Developer | ASP.NET Core | Flutter | React | SQL Server
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">👋 I'm  Full Stack Web Developer</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hekmatjalili&label=Profile%20views&color=0e75b6&style=flat" alt="hekmatjalili" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hekmatjalili" alt="hekmatjalili" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hekmatullah06" target="blank"><img src="https://img.shields.io/twitter/follow/hekmatullah06?logo=twitter&style=for-the-badge" alt="hekmatullah06" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hekmatullah06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hekmatullah06" height="30" width="40" /></a>
-<a href="https://fb.com/hekmatullah jalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hekmatullah jalili" height="30" width="40" /></a>
-<a href="https://instagram.com/hekmatullahjalili19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hekmatullahjalili19" height="30" width="40" /></a>
-<a href="https://discord.gg/@flutter_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@flutter_developer" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;ASP.NET+Core+Developer;Flutter+Mobile+Developer;React+Developer;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hekmatjal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Hekmatjal?logo=github&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Hekmatjal?affiliations=OWNER&style=for-the-badge" />
+</p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hekmatjalili&show_icons=true&locale=en&layout=compact" alt="hekmatjalili" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hekmatjalili&show_icons=true&locale=en" alt="hekmatjalili" /></p>
+# 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hekmatjalili&" alt="hekmatjalili" /></p> -->
+💻 Full Stack Software Developer
+
+🌱 Currently improving my skills in
+
+- ASP.NET Core
+- Flutter
+- React.js
+- REST APIs
+- Clean Architecture
+- Microservices
+- Azure & AWS
+
+🚀 Passionate about building
+
+- Enterprise Web Applications
+- Mobile Applications
+- Database Systems
+- Cloud Solutions
+
+💬 Ask me about
+
+- ASP.NET Core MVC
+- ASP.NET Web API
+- Flutter
+- React
+- SQL Server
+- Entity Framework Core
+- C#
+- Git & GitHub
+
+⚡ Fun Fact
+
+> "Every successful application starts with one line of code."
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dart,js,ts,java,python,cpp,c" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,jquery" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,visualstudio,postman,firebase" />
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hekmatjal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hekmatjal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hekmatjal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hekmatjal&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hekmatjal&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌍 Connect with Me
+
+<p align="center">
+
+<a href="https://twitter.com/hekmatullah06">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://facebook.com/">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://instagram.com/hekmatullahjalili19">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+⭐ ASP.NET Core Web Applications
+
+⭐ Flutter Mobile Applications
+
+⭐ RESTful APIs
+
+⭐ SQL Server Database Systems
+
+⭐ React Web Applications
+
+⭐ Full Stack Enterprise Solutions
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Code is like humor. When you have to explain it, it's bad."**
+
+— Cory House
+
+</p>
+
+---
+
+<p align="center">
+
+### Thank you for visiting my profile ❤️
+
+⭐ Don't forget to Star your favorite repositories ⭐
+
+</p>
