@@ -23,7 +23,7 @@ Full Stack Web Developer|Laravel | ASP.NET Core | Flutter | React | SQL Server
 💻 Full Stack Software Developer
 
 🌱 Currently improving my skills in
-
+- Laravel 
 - ASP.NET Core
 - Flutter
 - React.js
